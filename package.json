@@ -1,0 +1,26 @@
+{
+  "name": "kamikazi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "gokz",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farhanasif/kamikazi.git"
+  },
+  "keywords": [
+    "kz"
+  ],
+  "author": "farhan asif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farhanasif/kamikazi/issues"
+  },
+  "homepage": "https://github.com/farhanasif/kamikazi#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
